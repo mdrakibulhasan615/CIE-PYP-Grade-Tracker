@@ -1,10 +1,10 @@
 # CIE PYP Grade Tracker
+### Created by
+MD Rakibul Hasan [https://github.com/mdrakibulhasan615]
+
 ## iOS Scriptable Widget
 
 An interactive Scriptable widget for iOS that tracks your A-Level past paper grades and visualises your progress
-
-## Created by
-MD Rakibul Hasan [https://github.com/mdrakibulhasan615]
 
 ## Features
 * Displays current grade averages and paper breakdowns
